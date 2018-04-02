@@ -15,13 +15,13 @@
 - 칸반보드
   - CardList/Card 드래그 등 각종 칸반보드 기능 구현
 
-![plangram_1](/images/plangram_1.png)
+![plangram_1](images/plangram_1.png)
 
 - 채팅
   - 메시지 전송, 첨부파일 전송, 오픈그래프 등 각종 기능 구현
   - Realm 이용해서 데이터 로컬 저장
 
-![plangram_2](/images/plangram_2.png)
+![plangram_2](images/plangram_2.png)
 
 - 실시간 Reactivity
   - Meteor, Mqtt 활용
@@ -31,7 +31,7 @@
 - 파일 업/다운로드 기능
   - AWS S3에 직접 업로드
 
-![plangram_3](/images/plangram_3.png)
+![plangram_3](images/plangram_3.png)
 
 - 카메라 촬영
   - Intent 방식으로 카메라 촬영한 사진을 첨부파일로 업로드 하기
