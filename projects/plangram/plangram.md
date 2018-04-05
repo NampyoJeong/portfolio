@@ -3,7 +3,7 @@
 
 칸반보드와 채팅이 결합된 Task management system
 
-- 2016.06.10. ~ 2018.04.30.
+- 2016.06.07. ~ 2018.04.06.
 - Android, iOS, Java, Objective-C, Meteor, Mqtt, Realm, Glide, FCM, Google-OAuth
 
 ## 소개

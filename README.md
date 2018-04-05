@@ -5,7 +5,7 @@
 
 # 경력
 - 플랜그램
-  - 2016.06.10. ~ 2018.04.30.
+  - 2016.06.07. ~ 2018.04.06.
   - 연구원
   - 플랜그램 서비스의 안드로이드, iOS 앱 개발을 담당했습니다.
 - 싸이몬
@@ -24,7 +24,7 @@
 # Project
 - [플랜그램](https://github.com/NampyoJeong/portfolio/blob/master/projects/plangram/plangram.md)
   - 칸반보드와 채팅이 결합된 Task Management System입니다. 모바일 앱 개발을 담당했습니다.
-  - 2016.06.10. ~ 2018.04.30.
+  - 2016.06.07. ~ 2018.04.06.
   - Android, iOS, Java, Objective-C, Meteor, Mqtt, Realm, Glide, FCM, Google-OAuth
 - [Cordova 하이브리드 앱 OCR 플러그인 개발](https://github.com/NampyoJeong/portfolio/blob/master/projects/cordova-ocr/cordova-ocr.md)
   - Cordova 하이브리드 앱 외주 개발 프로젝트입니다. 네이티브 플러그인으로 OCR 기능을 개발했습니다.
